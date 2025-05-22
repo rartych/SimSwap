@@ -1,5 +1,5 @@
 openapi: 3.0.5
-info:
+info:   
   title: SIM Swap
   description: |
     The SIM swap API provides a programmable interface for developers and other users (capabilities consumers) to request the last date of a SIM swap performed on the mobile line, or, to check whether a SIM swap has been performed during a past period.
